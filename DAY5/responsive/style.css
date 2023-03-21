@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: lightpink;
+}
+@media (min-width: 768px) {
+  body {
+    background-color: deeppink;
+  }
+}
+@media (min-width: 1024px) {
+  body {
+    background-color: deepskyblue;
+  }
+}
+@media (min-width: 1280px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
